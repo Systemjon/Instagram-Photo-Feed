@@ -2,6 +2,9 @@ body {
     background: rgb(241, 236, 236);
     margin: 0;
 }
+.mt-10 {
+    margin-top: 5rem;
+}
 div {
     box-sizing: border-box;
 }
@@ -40,4 +43,3 @@ div.container-1 {
     width: 600px;
     margin: auto;
 }
-
