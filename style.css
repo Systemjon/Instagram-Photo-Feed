@@ -5,6 +5,11 @@ body {
 .mt-10 {
     margin-top: 5rem;
 }
+div.tab-content {
+    width: 1150px;
+    margin: auto;
+}
+
 div {
     box-sizing: border-box;
 }
@@ -42,4 +47,7 @@ div.Post h2, div.Post p {
 div.container-1 {
     width: 600px;
     margin: auto;
+}
+.nav-link{
+    color:gray
 }
